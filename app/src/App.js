@@ -4,7 +4,7 @@ import twitterLogo from './assets/twitter-logo.svg';
 import CandyMachine from './CandyMachine';
 
 // Constants
-const TWITTER_HANDLE = '_buildspace';
+const TWITTER_HANDLE = 'codebymdb';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 
 const App = () => {
