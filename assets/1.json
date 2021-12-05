@@ -1,0 +1,19 @@
+{
+  "name": "ITS ABOUT TIME",
+  "symbol": "SWVIAT",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5xrS4WWxQgERM9ML83pHzim1mBoZ861pFrnAfweWqZFv",
+        "share": 100
+      }
+    ]
+  }
+}

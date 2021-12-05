@@ -1,0 +1,19 @@
+{
+  "name": "NEW BEGINNING",
+  "symbol": "SWVNB",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5xrS4WWxQgERM9ML83pHzim1mBoZ861pFrnAfweWqZFv",
+        "share": 100
+      }
+    ]
+  }
+}
